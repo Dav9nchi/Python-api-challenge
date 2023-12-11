@@ -1,4 +1,4 @@
-                                     # <center> Python api challenge <center>
+                                          Python api challenge 
 
 ## Main Question 
 What is the weather like as we approach the equator?
