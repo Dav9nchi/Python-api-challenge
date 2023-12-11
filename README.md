@@ -46,8 +46,8 @@ Next, create a series of scatter plots. Be sure to include the linear regression
   6. Southern Hemisphere: Cloudiness vs. Latitude
   7. Northern Hemisphere: Wind Speed vs. Latitude
   8. Southern Hemisphere: Wind Speed vs. Latitude
-
 After each pair of plots, explain what the linear regression is modeling. Describe any relationships that you notice and any other findings you may uncover.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Part 2: VacationPy
 
